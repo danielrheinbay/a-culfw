@@ -2,5 +2,5 @@
 #define VERSION_2               26
 #define VERSION                 "1.26.08"
 #define BUILD_DATE              "unknown"
-#define BUILD_NUMBER            "private build"
+#define BUILD_NUMBER            "private build, credits disabled"
 #define FW_NAME                 "a-culfw"

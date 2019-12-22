@@ -2,6 +2,7 @@
 
 #### 1.26.08
 - MapleCUN: Fix serial2net
+- Remove duty cycle (aka 1 % rule)
 
 #### 1.26.07
 - MapleCUN/CUBe: MSC bootloader
